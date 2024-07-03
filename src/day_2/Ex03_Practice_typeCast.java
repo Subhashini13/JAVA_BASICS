@@ -1,6 +1,6 @@
 package day_2;
 
-public class Ex3_Practice_typeCast {
+public class Ex03_Practice_typeCast {
 	public static void main(String srgs[]) {
 		int variableOne = 10;
 		float variableTwo = variableOne;

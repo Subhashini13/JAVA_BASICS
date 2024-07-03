@@ -2,7 +2,7 @@ package day_2;
 
 import java.util.Scanner;
 
-public class Ex4_DataType_Assignment1_CircleArea {
+public class Ex04_DataType_Assignment1_CircleArea {
 	static double radius;
 	static double areaofCircle(double radius) {
 		return Math.PI * radius * radius;

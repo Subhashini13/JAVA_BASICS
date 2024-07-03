@@ -6,7 +6,7 @@ When a value of a data type with smaller range is assigned to a variable of a 
 
 When two variables of different data types are involved in an expression, the value of smaller range datatype is converted to a value of larger range datatype and then the operation is performed. 
  */
-public class Ex1_Implicit_Type_Conversion {
+public class Ex01_Implicit_Type_Conversion {
 	public static void main(String[] args) {
 		int a = 10;
 		double valuea  = a;

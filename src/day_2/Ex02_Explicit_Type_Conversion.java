@@ -1,6 +1,6 @@
 package day_2;
 
-public class Ex2_Explicit_Type_Conversion {
+public class Ex02_Explicit_Type_Conversion {
 	public static void main(String[] args) {
 		int discountPercentage = 10;
 		double totalPrice = 200;

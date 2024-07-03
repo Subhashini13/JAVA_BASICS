@@ -7,7 +7,7 @@ Implement a program to convert temperature from f to c degree by using the formu
 C = ((F-32)/9)*5 where, C represents temperature in c and F represents temperature in f.
 
  */
-public class Ex5_FtoC_conversion {
+public class Ex05_FtoC_conversion {
 	
 	public static int calculateFtoC(int f) {
 		return (((f-32)/9)*5);
